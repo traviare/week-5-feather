@@ -1,0 +1,14 @@
+body,
+h1,
+h2,
+p,
+image,
+div,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
